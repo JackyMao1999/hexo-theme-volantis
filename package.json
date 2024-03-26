@@ -4,7 +4,7 @@
   "description": "Elegant and powerful theme for Hexo.",
   "main": "package.json",
   "scripts": {
-    "test": "echo test"
+    "build": "hexo generate"
   },
   "repository": {
     "type": "git",
